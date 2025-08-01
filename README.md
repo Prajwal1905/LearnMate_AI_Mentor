@@ -32,14 +32,16 @@ Educators & guidance counselors
 Self-learners and upskillers
 
 ## WOW Factors
-🔍 Personalized learning roadmap generation
-🧠 Uses Retrieval-Augmented Generation with real course data
-🌐 Handles both tech (e.g. Cybersecurity, ML) and non-tech pathways
-🎯 Aligns with career goals & interests through conversation
-📚 Dynamic roadmap updates based on learning progress
-💬 Graceful handling of irrelevant queries
-🌎 Future-ready with multilingual and mobile support
-🛡️ Fully built using IBM Cloud Lite & Watsonx.ai services
+This agent will empower learners by generating personalized learning roadmaps, aligning educational content with individual goals, and simplifying navigation through vast learning resources. It is designed to support both tech and non-tech pathways, enhance self-paced learning, and adapt dynamically as users progress.
+
+Unique features:
+Personalized roadmap generation based on user interests, goals, and current skill levels
+Retrieval-Augmented Generation (RAG) using real course data for contextual relevance
+Conversational alignment that refines learning paths through interactive dialogue
+Dynamic roadmap updates that adapt to progress and new goals
+Graceful handling of irrelevant queries to keep the learning journey smooth
+End-to-end built on IBM Cloud Lite & Watsonx.ai, ensuring scalability and robustness
+
 
 ## Key Features
 Conversational skill assessment and interest mapping
