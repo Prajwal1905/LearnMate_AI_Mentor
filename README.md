@@ -63,6 +63,8 @@ Users can ask follow-ups, request adjustments, or track progress
 
 ![image alt](https://github.com/Prajwal1905/LearnMate_AI_Mentor/blob/ed8179c36e3534055c041f3ff06d754f91094488/Screenshot%202025-08-01%20132158.png)
 
+![image alt](https://github.com/Prajwal1905/LearnMate_AI_Mentor/blob/1ff0561155e34bfe3381384f28b1243a1620643b/Screenshot%202025-08-01%20132331.png)
+
 
 ## How to Run or Deploy
 Log in to IBM Cloud Lite: https://cloud.ibm.com
