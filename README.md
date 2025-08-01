@@ -10,53 +10,53 @@ Students often feel lost in the sea of online resources. Without structured, per
 LearnMate is an Agentic AI coach powered by IBM Watsonx.ai and Retrieval-Augmented Generation (RAG). It interacts naturally with students to understand their preferences and goals, then creates a customized, evolving course roadmap. It also adapts based on feedback and learning progress, making career building more focused and efficient.
 
 ## Technologies Used
-IBM Watsonx.ai Studio
-IBM Granite Foundation Model (LLM)
-Vector Index for Retrieval-Augmented Generation (RAG)
-Natural Language Processing (NLP)
+-IBM cloud lite services
+-Natural Language Processing (NLP)
+-Retrieval Augmented Generation (RAG)
+-IBM Granite model
 
 ## IBM Cloud Services Used
-IBM Cloud Watsonx AI Studio
-IBM Cloud Watsonx AI runtime
-IBM Cloud Agent Lab
-IBM Granite foundation model
+-IBM Cloud Watsonx AI Studio
+-IBM Cloud Watsonx AI runtime
+-IBM Cloud Agent Lab
+-IBM Granite foundation model
 
 
 ## Target Users
-University students
-Early-career professionals
-Career switchers
-School students exploring technology
-Educators & guidance counselors
-Self-learners and upskillers
+-University students
+-Early-career professionals
+-Career switchers
+-School students exploring technology
+-Educators & guidance counselors
+-Self-learners and upskillers
 
 ## WOW Factors
 This agent will empower learners by generating personalized learning roadmaps, aligning educational content with individual goals, and simplifying navigation through vast learning resources. It is designed to support both tech and non-tech pathways, enhance self-paced learning, and adapt dynamically as users progress.
 
 Unique features:
-Personalized roadmap generation based on user interests, goals, and current skill levels
-Retrieval-Augmented Generation (RAG) using real course data for contextual relevance
-Conversational alignment that refines learning paths through interactive dialogue
-Dynamic roadmap updates that adapt to progress and new goals
-Graceful handling of irrelevant queries to keep the learning journey smooth
+-Personalized roadmap generation based on user interests, goals, and -current skill levels
+-Retrieval-Augmented Generation (RAG) using real course data for contextual relevance
+-Conversational alignment that refines learning paths through interactive dialogue
+-Dynamic roadmap updates that adapt to progress and new goals
+-Graceful handling of irrelevant queries to keep the learning journey smooth
 End-to-end built on IBM Cloud Lite & Watsonx.ai, ensuring scalability and robustness
 
 
 ## Key Features
-Conversational skill assessment and interest mapping
-Adaptive course roadmap building
-Natural-language Q&A for roadmap clarification
-Vector Index-based RAG over curated learning content
-Topic restriction and polite redirection for irrelevant questions
-Personalized recommendations across major learning platforms
+-Conversational skill assessment and interest mapping
+-Adaptive course roadmap building
+-Natural-language Q&A for roadmap clarification
+-Vector Index-based RAG over curated learning content
+-Topic restriction and polite redirection for irrelevant questions
+-Personalized recommendations across major learning platforms
 
 ## How It Works
-Student logs in and initiates a conversation
-LearnMate AI asks for interests and current skill level
-Granite LLM parses input using natural language understanding
-Vector Index fetches trusted course information (from uploaded PDFs or curated metadata)
-AI dynamically creates a course roadmap and explains it in natural language
-Users can ask follow-ups, request adjustments, or track progress
+-Student logs in and initiates a conversation
+-LearnMate AI asks for interests and current skill level
+-Granite LLM parses input using natural language understanding
+-Vector Index fetches trusted course information (from uploaded PDFs or curated metadata)
+-AI dynamically creates a course roadmap and explains it in natural language
+-Users can ask follow-ups, request adjustments, or track progress
 
 ## Screenshots
 ![image alt](https://github.com/Prajwal1905/LearnMate_AI_Mentor/blob/a7d435fa93c86e2e014c808acdb970944192dd32/Screenshot%202025-08-01%20132023.png)
