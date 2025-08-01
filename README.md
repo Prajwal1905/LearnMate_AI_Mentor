@@ -59,6 +59,7 @@ Users can ask follow-ups, request adjustments, or track progress
 
 ## Screenshots
 ![image alt](https://github.com/Prajwal1905/LearnMate_AI_Mentor/blob/a7d435fa93c86e2e014c808acdb970944192dd32/Screenshot%202025-08-01%20132023.png)
+![image alt](https://github.com/Prajwal1905/LearnMate_AI_Mentor/blob/f28aa6f61df96e74ea4604a0722cd2d83fdc40c6/Screenshot%202025-08-01%20132132.png)
 
 
 
