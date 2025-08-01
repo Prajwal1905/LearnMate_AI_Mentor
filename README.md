@@ -16,12 +16,11 @@ Vector Index for Retrieval-Augmented Generation (RAG)
 Natural Language Processing (NLP)
 
 ## IBM Cloud Services Used
-Watsonx.ai Studio
-IBM Granite Model
-Watsonx Vector Index
-IBM Cloud Object Storage
-IBM Cloud Lite Account
-IBM IAM (Access Management)
+IBM Cloud Watsonx AI Studio
+IBM Cloud Watsonx AI runtime
+IBM Cloud Agent Lab
+IBM Granite foundation model
+
 
 ## Target Users
 University students
