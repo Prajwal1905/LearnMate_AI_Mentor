@@ -9,11 +9,12 @@ Students often feel lost in the sea of online resources. Without structured, per
 ## Proposed Solution
 LearnMate is an Agentic AI coach powered by IBM Watsonx.ai and Retrieval-Augmented Generation (RAG). It interacts naturally with students to understand their preferences and goals, then creates a customized, evolving course roadmap. It also adapts based on feedback and learning progress, making career building more focused and efficient.
 
-## Technologies Used
--IBM cloud lite services
--Natural Language Processing (NLP)
--Retrieval Augmented Generation (RAG)
--IBM Granite model
+## 🛠️ Technologies Used
+
+- IBM Cloud Lite services  
+- Natural Language Processing (NLP)  
+- Retrieval-Augmented Generation (RAG)  
+- IBM Granite model  
 
 ## IBM Cloud Services Used
 -IBM Cloud Watsonx AI Studio
